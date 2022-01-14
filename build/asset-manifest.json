@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4c5a4cef.chunk.css",
+    "main.js": "/static/js/main.31445e4f.chunk.js",
+    "main.js.map": "/static/js/main.31445e4f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2a426196.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2a426196.js.map",
+    "static/js/2.f310ee74.chunk.js": "/static/js/2.f310ee74.chunk.js",
+    "static/js/2.f310ee74.chunk.js.map": "/static/js/2.f310ee74.chunk.js.map",
+    "static/js/3.e4452a01.chunk.js": "/static/js/3.e4452a01.chunk.js",
+    "static/js/3.e4452a01.chunk.js.map": "/static/js/3.e4452a01.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.4c5a4cef.chunk.css.map": "/static/css/main.4c5a4cef.chunk.css.map",
+    "static/js/2.f310ee74.chunk.js.LICENSE.txt": "/static/js/2.f310ee74.chunk.js.LICENSE.txt",
+    "static/media/Prcart.74ccc339.png": "/static/media/Prcart.74ccc339.png",
+    "static/media/arrangement-black-friday-clock-with-copy-space.23ae1df6.jpg": "/static/media/arrangement-black-friday-clock-with-copy-space.23ae1df6.jpg",
+    "static/media/clock-laptop-with-copy-space.0424456c.jpg": "/static/media/clock-laptop-with-copy-space.0424456c.jpg",
+    "static/media/download.dd979fa6.png": "/static/media/download.dd979fa6.png",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a426196.js",
+    "static/js/2.f310ee74.chunk.js",
+    "static/css/main.4c5a4cef.chunk.css",
+    "static/js/main.31445e4f.chunk.js"
+  ]
+}
